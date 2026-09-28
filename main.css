@@ -1,0 +1,22 @@
+body {
+  font-family: Consolas, Menlo, "Courier New", monospace;
+}
+
+h2{
+    font-size: 56px;
+    color: #9000ff;
+    font-weight: 800;
+}
+
+p{
+    color: #0d0303;
+    font-size: 28px;
+}
+    .first{
+    font-weight: 800;
+}
+
+a{
+    color: #7272dd;
+    text-decoration: none;
+}
